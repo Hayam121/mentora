@@ -1,0 +1,6 @@
+{
+    "editor.suggest.showFolders": true,
+    "files.enableTrash": true,
+    "files.simpleDialog.enable": true,
+    "material-icon-theme.folders.theme": "specific"
+}
